@@ -6,7 +6,7 @@
 
 1. Установите Python и Django.
 2. Клонируйте репозиторий и перейдите в каталог проекта:
-git clone https://github.com/Open-Meteo API/weather-app.git 
+git clone https://github.com/Nimblen/Open-Meteo-API.git
 3. Создайте и активируйте виртуальное окружение:
 python -m venv venv source venv/bin/activate # для Unix или Linux venv\Scripts\activate # для Windows
 4. Установите зависимости:
